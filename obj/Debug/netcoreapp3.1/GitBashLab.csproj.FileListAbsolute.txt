@@ -1,0 +1,14 @@
+C:\Users\Kenan\source\repos\GitBashLab\bin\Debug\netcoreapp3.1\GitBashLab.exe
+C:\Users\Kenan\source\repos\GitBashLab\bin\Debug\netcoreapp3.1\GitBashLab.deps.json
+C:\Users\Kenan\source\repos\GitBashLab\bin\Debug\netcoreapp3.1\GitBashLab.runtimeconfig.json
+C:\Users\Kenan\source\repos\GitBashLab\bin\Debug\netcoreapp3.1\GitBashLab.runtimeconfig.dev.json
+C:\Users\Kenan\source\repos\GitBashLab\bin\Debug\netcoreapp3.1\GitBashLab.dll
+C:\Users\Kenan\source\repos\GitBashLab\bin\Debug\netcoreapp3.1\GitBashLab.pdb
+C:\Users\Kenan\source\repos\GitBashLab\obj\Debug\netcoreapp3.1\GitBashLab.csproj.AssemblyReference.cache
+C:\Users\Kenan\source\repos\GitBashLab\obj\Debug\netcoreapp3.1\GitBashLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\source\repos\GitBashLab\obj\Debug\netcoreapp3.1\GitBashLab.AssemblyInfoInputs.cache
+C:\Users\Kenan\source\repos\GitBashLab\obj\Debug\netcoreapp3.1\GitBashLab.AssemblyInfo.cs
+C:\Users\Kenan\source\repos\GitBashLab\obj\Debug\netcoreapp3.1\GitBashLab.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\source\repos\GitBashLab\obj\Debug\netcoreapp3.1\GitBashLab.dll
+C:\Users\Kenan\source\repos\GitBashLab\obj\Debug\netcoreapp3.1\GitBashLab.pdb
+C:\Users\Kenan\source\repos\GitBashLab\obj\Debug\netcoreapp3.1\GitBashLab.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gry0rfuXOYr1nfDTFYZgyuBzlQw2p41reuuDNoc+d3fkCuw6MZmbuC2f8CXDzitW7x3WxxPP7nc0WgidfdS9Lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kenan\\source\\repos\\GitBashLab\\GitBashLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kenan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
